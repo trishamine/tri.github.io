@@ -1,1 +1,2 @@
-# tri.github.io
+# Сайт @trishamine
+# https://tri.github.io/
